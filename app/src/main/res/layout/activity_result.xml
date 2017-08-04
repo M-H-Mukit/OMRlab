@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#101010"
+    tools:context="com.example.mukit.omrlab.scanned_img">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#231212"
+        android:elevation="4dp"
+        android:theme="@style/Widget.AppCompat.ActionBar.TabText"
+        android:visibility="visible"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:title="OMRLAB"
+        app:titleTextColor="?android:attr/colorActivatedHighlight"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/sub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/my_toolbar"
+        android:layout_marginTop="15dp"
+        android:text=" Subject: "
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/subCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Sub Code: "
+        android:textColor="@android:color/holo_orange_dark"
+        android:layout_marginTop="10dp"
+        android:textSize="20dp"
+        android:layout_below="@+id/sub"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/showSubName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/subCode"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/sub"
+        android:layout_toEndOf="@+id/sub"
+        android:text="TextView"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/showSubCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/subCode"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@+id/subCode"
+        android:text=""
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="20dp" />
+
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_below="@id/subCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:textStyle="bold"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:background="#999999"
+            android:gravity="right"
+            android:text="ID"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:textStyle="bold"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:background="#999999"
+            android:text="Marks"/>
+
+    </LinearLayout>
+
+    <ListView
+
+        android:id="@android:id/list"
+        android:paddingTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/header"
+        android:background="#cccccc">
+
+    </ListView>
+
+
+</RelativeLayout>

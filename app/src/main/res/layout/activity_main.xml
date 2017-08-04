@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <Button
+        android:id="@+id/takeImg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="87dp"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:onClick="imgCapture"
+        android:text="Set answer"
+        android:backgroundTint="@android:color/holo_orange_dark"
+        android:textColor="@android:color/black"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="367dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\11501f20997a931a8148dbb8c139e849aabfa5de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\classes_b77e9342ec42e733305da3c098a3232ab8612552.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\1338467db59babfa8c251a8c0a1a21ed09eda83b\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_eb63aaf405fdce34271c0576eeeee9240d4d7d26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\22a9abd1c6ca5e31f92ef452dafdb1b038978dc8\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4971060166ad54bbe8422ef89b331a0c77ee105d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_app\OMRlab\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_708f7a987002424f54918989919f3f20d739b39e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\7237b3bc39dc48774f685aa125d606d1759785e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\classes_36975dca29ebb6d22bcd77a69c7c4f5466c32195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_35ecd964bd2e7c2affe2faa3037e8d25a456dc60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\3e2de28e693bedac826e778c93875083396b9a02\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_91d0d607be72049f32a62d7d448e52358920e6c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\b23f479610def36940f6d67479f54d53540639a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\classes_3d879e08af3e7db03b62e2cfab3ca43aa62c51f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\22a9abd1c6ca5e31f92ef452dafdb1b038978dc8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\classes_bae9290549a439ea4168f24f6280e0dc17a641a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\5ed566b9b0805f50eb2e1c0881f0ade25a1d96b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\classes_be1a92273abc03a2492d168af4a4bbff89e393e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android_app\OMRlab\opencv\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="038e8806866760ccd8568b401b8052e937e4be1a">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\classes_a090d979f474805eb022d9bba63ab15076efdac0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\3e2de28e693bedac826e778c93875083396b9a02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\classes_c371f89e76d1c6e343f7251fdd8edb3fa50c7c55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_ff43ccaf7abfbd3c60816f309b8d55b18c2b1847.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\7ab7ab81e08439fdc98c1aa53d5862cf37bafde3\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_062ce08851a3aebc9ac8803582618e96b6fb6cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android_app\OMRlab\openCVLibrary320\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efbde2ee0261407accb75a3a589be7878d4b3ed1">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\classes_c7263a277263f3a6ba87da08694b5c6d0b728ec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\1338467db59babfa8c251a8c0a1a21ed09eda83b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\classes_ad41ed5ba89229f1bbda7754ec4bb7e26600cfca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\89fa94f64f10c0f73f52d02207351e264d60ebf3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\classes_b1b852672296d7a4f5e96e9f6a1549d10f5d102b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\7ab7ab81e08439fdc98c1aa53d5862cf37bafde3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\classes_6077e232e9142f8a18001c672decd022a0c36f99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\83948c167b6f025cf104f0218273126e9c2f3ea4\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8fec22f4997e671766cfe54658660dab856d2a91.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_app\OMRlab\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c5cd247e6b551e99539cbd68acfe10e381a8c680">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_710453e3c890c817281558f22a50f66789f5724c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\322fb783031ae62568947e386ac9f07904669b9a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\classes_830b9a68f7971822cea73f45b04f72d42e3a291c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\83948c167b6f025cf104f0218273126e9c2f3ea4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\classes_ca2ecda5201159816677660082ab395eea8f18e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukit\.android\build-cache\8b9b2994a0e3dcdaf45c9df79430c491e50e7fa4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\android_app\OMRlab\app\build\intermediates\pre-dexed\debug\classes_10a3e9f82a3e7785650347f881cdbfa4b69fd767.jar" />
+    </item>
+
+</items>
